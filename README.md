@@ -1,4 +1,5 @@
-# Momentum UI Angular
+# @momentum-ui/angular is deprecated an no longer maintained
+This repo is for historical reference only.
 
 [![CircleCI](https://img.shields.io/circleci/project/github/momentum-design/momentum-ui/master.svg)](https://circleci.com/gh/momentum-design/momentum-ui/)
 ![npm (scoped)](https://img.shields.io/npm/v/@momentum-ui/angular.svg)
